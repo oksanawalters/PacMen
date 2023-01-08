@@ -3,7 +3,7 @@
 <img src= "pacmen.png" width='300'/>
 
 ## Description 
-This Project is a web page that shows the map of bus stops between MIT and Harvard. I used mapbox to create this map.
+This Project is a web page th. Everytime you click on "Start Game" the pacmen move faster
 
 ## How to Run 
 Please follow this [link](https://oksanawalters.github.io/PacMen/) to test it yourself. When the page is loaded click on "Add PacMan" and "Start Game".
